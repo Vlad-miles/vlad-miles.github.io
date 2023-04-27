@@ -1,0 +1,912 @@
+ @media screen and (max-width: 1200px) {
+  .bg-ex-top{
+    top: 49% !important;
+  }
+  
+  .top__cards{
+     column-gap: 3% !important;
+  }
+  .top__card{
+    justify-content: center;
+  
+  }
+  .top__card-title{
+    font-size: 4rem !important;
+  }
+ 
+  .title-contener{
+    min-width: 100%;
+  }
+ 
+
+  .top__card-title{
+    font-weight: 700;
+    font-size: 60px;
+  }
+
+
+  .organize-background {
+    background: url(../img/svg/background-organize.svg) 10% 10% no-repeat scroll !important;
+}
+
+.organize__tour{
+  column-gap: 10%!important;
+}
+.organize__img{
+  margin-right: 3%;
+}
+
+
+.buryatia__info {
+  margin-left: 5%!important;
+}
+#navbar{
+  margin-left: 8%!important;
+}
+
+.organize__img{
+  display: none !important;
+
+}
+
+.organize__img_hidden1 {
+display: grid !important;
+justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 5% !important;
+  padding-right: 5% !important;
+}
+.organize__list {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+}
+.organize__desc1{
+padding: 0px 0px 40px 0px !important;
+}
+
+.organize__lil{
+margin-top: 3% !important;
+text-align: center;
+}
+.icon{
+  display: block !important;
+  margin-bottom: 12% !important;
+right: -45px !important;
+}
+.organize-pic{
+text-align: center; 
+}
+.organize-background {
+background: url(../img/svg/background-organize.svg) 10% 15% no-repeat scroll !important;
+}
+.buryatia__title{
+  margin-left: 6%!important;
+}
+.buryatia__card-title1{
+  margin-left: 6%!important;
+}
+.buryatia_text{
+  margin-left: 6%!important;
+}
+.gall{
+  width: 100%;
+}
+
+.bashkara__info{
+  display: none;
+}
+.bashkara__pic{
+  width: 100%;
+}
+.bashkara__tour{
+  grid-template-columns: initial !important;
+}
+.icon22{
+  display: block !important;
+  left: 0px !important;
+}
+.bashkara_icon22{
+  top: -10px !important;
+ left: 0px !important;
+}
+.bashkara_pic2{
+  top: 30px !important;
+}
+.bashkara__tour1{
+  padding: 40px 0px 0px 0px !important;
+  margin-bottom: 3% !important;
+}
+.bashkara__list{
+  flex-wrap: initial !important;
+  flex-direction: column;
+}
+.bashkara__list1{
+  flex-wrap: initial !important;
+}
+/*  footer start 1200*/
+.footer__item_hidden{
+display: none;
+}
+.footer__list_hidden{
+display: flex !important;
+margin-top: 5%;
+}
+.footer__item{
+  margin-right: 6%!important;
+}
+.footer__item01{
+  margin-right: 6%!important;
+}
+
+
+/*  footer  end 1200*/
+}
+@media screen and (max-width: 960px) {
+ .tour__thumb1{
+margin-bottom: 3%;
+  }
+  .tours__card-title{
+    font-weight: 800!important;
+font-size: 28px!important;
+line-height: 33px!important;
+  }
+  .tours__card-title1{
+    font-weight: 800!important;
+font-size: 28px!important;
+line-height: 33px!important;
+  }
+  .tours__card-title02{
+    font-weight: 800!important;
+font-size: 28px!important;
+line-height: 33px!important;
+  }
+  .top__card{
+    margin-bottom: 5%;
+  }
+  .top__card-title1{
+    font-weight: 900!important;
+font-size: 45px!important;
+  }
+  .top__card-title{
+    font-weight: 900!important;
+    font-size: 65px!important;
+  }
+  .top__card-title2{
+    font-weight: 900!important;
+font-size: 65px!important;
+  }
+  .top__title{
+    font-weight: 800!important;
+    font-size: 30px!important;
+    line-height: 35px!important; 
+  }
+  .organize__desc{
+    font-weight: 500!important; 
+font-size: 20px!important; 
+line-height: 23px!important; 
+  }
+  .questions-title1{
+    font-weight: 500!important; 
+    font-size: 25px!important; 
+  }
+  .tours__list{
+    flex-wrap: nowrap !important;
+    flex-direction: column !important;
+    align-content: center !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .top__cards{
+    flex-direction: column !important;
+    align-content: center !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .questions-title{
+    font-weight: 800!important;
+    font-size: 30px!important;
+    line-height: 35px!important; 
+  }
+  .gallery__title{
+    font-weight: 800!important;
+    font-size: 30px!important;
+    line-height: 35px!important;
+  }
+  .tours_topic1{
+    font-weight: 800!important;
+    font-size: 30px!important;
+    line-height: 35px!important;
+  }
+  .tours_topic{
+    font-weight: 800!important;
+font-size: 30px!important;
+line-height: 35px!important;
+  }
+  .organize__title{
+    font-family: 'Roboto'!important;
+    font-style: normal!important;
+    font-weight: 700!important;
+    font-size: 50px!important;
+    line-height: 59px!important;
+  }
+  
+  .bg-ex-top{
+    top: 48% !important;
+  }
+  .wrapper{
+  
+    margin: 0%;
+  }
+
+  .wrapper-full{
+
+    margin: 0%;
+  }
+ 
+  .top__card{
+    justify-content: center; 
+    margin-bottom: 5%;
+  }
+ 
+  .top__card-more{
+    padding: 5% 19% !important;
+  }
+ 
+  
+  .organize__img{
+    display: none !important;
+
+  }
+
+  .organize__img_hidden1 {
+    display: grid !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .organize__list {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+.organize__desc1{
+  padding: 0px 0px 40px 0px !important;
+}
+
+.organize__lil{
+  margin-top: 3% !important;
+  text-align: center;
+}
+.icon{
+  display: block !important;
+  right: -45px !important;
+}
+.organize-pic{
+  text-align: center; 
+}
+.organize-background {
+  background: url(../img/svg/background-organize.svg) 10% 15% no-repeat scroll !important;
+}
+.buryatia__title{
+  margin-left: 6%!important;
+}
+.buryatia__card-title1{
+  margin-left: 6%!important;
+}
+.buryatia_text{
+  margin-left: 6%!important;
+}
+
+.namely_buryatia-block{
+  height:  100% !important;
+}
+.namely_buryatia-thumb{
+  width: 100% !important;
+  height:  100% !important;
+}
+.namely_buryatia_tour{
+  width: 100%;
+}
+.namely_buryatia{
+  background: url(../img/svg/background-desktop20.svg) no-repeat scroll -23% 95% !important;
+}
+
+.namely_buryatia-text1 {
+  padding-left: 3%;
+}
+.buryatia__info {
+  margin-left: 0% !important;
+}
+.gall{
+  width: 100%;
+}
+.animation {
+  font-size: 115px !important;
+}
+/*  footer  start 960*/
+.footer__list{
+  padding-left: 20% !important;
+}
+.footer__item_hidden{
+  display: none;
+  }
+  .footer__list_hidden{
+  display: flex !important;
+  }
+  .footer__item{
+    margin-right: 6%!important;
+  }
+  .footer__item01{
+    margin-right: 6%!important;
+  }
+ 
+
+/*  footer  end 960*/
+}
+
+@media screen and (max-width: 768px) {
+  .bg-ex-top{
+    top: 48% !important;
+  }
+  .tours_topic{
+    font-weight: 800!important;
+font-size: 30px!important;
+line-height: 35px!important;
+  }
+  .organize__title{
+    font-family: 'Roboto'!important;
+    font-style: normal!important;
+    font-weight: 700!important;
+    font-size: 50px!important;
+    line-height: 59px!important;
+  }
+ .wrapper{
+    width: 100% !important;
+    margin: 0%;
+  }
+  .tours__list{
+    column-gap: 3% !important;
+    flex-wrap: nowrap!important;
+    margin-left: 5%!important;
+    margin-right: 5%!important;
+    align-items: center!important;
+  }
+  .tours__card-title{
+    font-weight: 800!important;
+font-size: 28px!important;
+line-height: 33px!important;
+  }
+  
+  .wrapper-full{
+    margin: 0%;
+  }
+  .top__card-title1{
+    font-size: 50px!important;
+  }
+  .top__card{
+    justify-content: center; 
+  }
+ 
+  .top__card-more{
+    padding: 5% 19% !important;
+  }
+ 
+ 
+  .organize__img{
+    display: none !important;
+
+  }
+  
+ 
+  .organize__list {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+.organize__desc1{
+  padding: 0px 0px 40px 0px !important;
+}
+
+.organize__lil{
+  margin-top: 3% !important;
+  text-align: center;
+}
+.icon{
+  display: block !important;
+  right: -45px !important;
+}
+.organize-pic{
+  text-align: center; 
+}
+.organize-background {
+  background: url(../img/svg/background-organize.svg) 10% 15% no-repeat scroll !important;
+}
+.organize__img_hidden1 {
+  display: grid !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.tours__list {
+
+  flex-direction: column !important;
+}
+
+.tours__card-line{
+display: none;
+  
+}
+.tour_txt_margin{
+  margin-left: 3%;
+}
+.tour__pic{
+display: flex;
+flex-direction: column;
+}
+.tour_txt_margin{
+  z-index: 1;
+}
+.Ellipse{
+  position: absolute;
+  opacity: 0.2  !important; 
+    margin: 5px 50px 2px 0px !important;
+}
+.gallery{
+  background-size: 65% !important;
+
+}
+.tours_text{
+  display: flex;
+}
+
+.tour__info {
+  min-width: 50%;
+  height: 100%;
+  
+}
+
+
+
+.gallery__tour{
+  display: none !important;
+}
+.gallery__tour_hidden{
+  display: flex !important;
+  flex-direction: column;
+}
+.benefits__card{
+width: 100%;
+margin-top: 3%;
+margin-bottom: 3%;
+}
+
+.bashkara__tour1{
+  display: flex !important;
+}
+.bashkara__tour_new1{
+  display: flex !important;
+  flex-wrap: wrap;
+}
+.bashkara__list1 {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  width: 100% !important;
+}
+
+.footer__list {
+  display: flex !important; 
+  flex-wrap: wrap !important; 
+}
+.footer__item_hidden{
+  display: none;
+  }
+  .footer__list_hidden{
+  display: flex !important;
+  }
+  .footer__item{
+    margin-right: 6%!important;
+  }
+
+  .footer__item01{ 
+  margin-bottom: 5%;
+
+  }
+
+  .footer__link {
+    font-size: 25px !important;
+  }
+  .footer-it{
+    font-size: 20px !important;
+  }
+
+/*  footer  end 768*/
+}
+@media screen and (max-width: 677px) {
+  .bg-ex-top{
+    top: 50% !important;
+  }
+  .bg-ex-top1{
+    display: block !important;
+ 
+  }
+  .organize__img_hidden1 {
+    display: grid !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .title-contener {
+    width: 100% !important;
+}
+.top__card{
+  justify-content: center;
+
+}
+
+.card-more-inf {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.top__cards {
+  display: flex;
+  column-gap: 57px;
+  row-gap: 0px;
+  flex-direction: column;
+}
+.tours__list {
+
+  flex-direction: column !important;
+}
+
+.tours__card-thumb{
+  width: 15%;
+  
+}
+
+.tour__info {
+  min-width: 50%;
+  height: 100%;
+  
+}
+.team__card-more{
+  padding: 5% 5% !important;
+}
+
+
+.namely__buryatia-cards{
+  flex-wrap: nowrap;
+  flex-direction: column;
+}
+.namely_buryatia-thumb1{
+  padding: 0!important; 
+}
+
+.namely_buryatia-block{
+  height:  100% !important;
+}
+.namely_buryatia-thumb{
+  width: 100% !important;
+  height:  100% !important;
+}
+.namely_buryatia_tour{
+  width: 100%;
+}
+.namely_buryatia{
+  background: url(../img/svg/background-desktop20.svg) no-repeat scroll 30% 80% !important;
+}
+
+.namely_buryatia-text1 {
+ 
+  padding-left: 3%;
+}
+.gallery{
+  background-size: 60% !important;
+
+}
+.gallery__tour{
+  display: flex !important;
+  flex-direction: column;
+}
+.gallery__cards{
+  display: flex !important;
+  flex-direction: column;
+
+}
+
+.gallery__tour{
+  display: none !important;
+}
+
+.gallery__tour_hidden{
+  display: flex !important;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+.benefits__card{
+width: 100%;
+margin-top: 3%;
+margin-bottom: 3%;
+}
+.bashkara__tour_new{
+  display: inline !important; 
+}
+.bashkara__h2{
+  margin-top: 3%;
+}
+.animation{
+  font-size: 60px !important;
+}
+/*  footer  start 677*/
+
+.wrapper_footer{
+  background: url(../img/svg/logo.svg) no-repeat ;
+  background-size: 33%  !important;
+}
+.footer__it_hidden{
+  display: flex !important; 
+}
+.footer__list {
+  display: none !important; 
+  flex-wrap: wrap !important; 
+}
+.footer__item_hidden{
+  display: none;
+  }
+  .footer__list_hidden{
+  display: flex !important;
+  }
+  .footer__item{
+    margin-right: 4%!important;
+  }
+
+  .footer__item01{ 
+   
+  margin-bottom: 5%;
+
+  }
+  .footer__list_hidden{
+    margin-left: 12% !important;
+  }
+  
+  .footer__link {
+    font-size: 25px !important;
+  }
+  .footer-it{
+    font-size: 15px !important;
+  }
+/*  footer  end 677*/
+}
+
+
+@media screen and (max-width: 480px) {
+ 
+    .bg-ex-top{
+      top: 50% !important;
+    }
+    .bg-ex-top1{
+      display: block !important;
+   
+    }
+ 
+ 
+  .organize__desc1{
+    padding: 0px 0px 40px 0px !important;
+  }
+  .organize__img_hidden1 {
+    display: grid !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .organize__lil {
+    margin-top: 7% !important;
+    text-align: center;
+}
+  .icon {
+    display: block !important;
+    right: -45px !important;
+}
+.card-more-inf {
+  margin-top: 5%;
+  margin-bottom: 5% !important;
+}
+.top__cards {
+  display: flex;
+  column-gap: 57px;
+  row-gap: 0px;
+  flex-direction: column;
+}
+
+.tours__card-thumb{
+  width: 15%;
+  
+}
+
+
+
+.way-title {
+
+  padding: 70px 0px 70px 0px !important;
+}
+
+.namely_buryatia_tour{
+  display: flex !important; 
+  flex-direction: column !important; 
+}
+.bashkara__tour_new{
+  display: inline !important; 
+}
+.bashkara__h2{
+  margin-top: 3%;
+}
+.animation{
+  font-size: 50px !important;
+}
+.gallery{
+  background-size: 55% !important;
+
+}
+/*  footer  start 480*/
+.wrapper_footer{
+  background: url(../img/svg/logo.svg) no-repeat ;
+  background-size: 31%  !important;
+}
+.footer__list {
+  display: none !important; 
+  flex-wrap: wrap !important; 
+}
+.footer__item_hidden{
+  display: none;
+  }
+  .footer__list_hidden{
+  display: flex !important;
+  }
+  .footer__item{
+    margin-right: 4%!important;
+  }
+
+  .footer__item01{ 
+    
+  margin-bottom: 5%;
+
+  }
+  .footer__item1{
+    margin-left: 0px !important;
+  }
+  .footer__item_logo{
+    margin-right: 0%!important;
+  }
+  .footer__list_hidden{
+    margin-left: 12% !important;
+  }
+ 
+  .footer__link {
+    font-size: 20px !important;
+  }
+  .footer-it{
+    font-size: 10px !important;
+  }
+/*  footer  end 480*/
+}
+@media screen and (max-width: 340px) {
+  .wrapper_footer{
+    background: url(../img/svg/logo.svg) no-repeat ;
+    background-size: 60%  !important;
+  }
+  .footer__it_hidden{
+    display: none !important;
+  }
+  .bg-ex-top{
+    top: 50% !important;
+  }
+  .organize__title{
+    
+    line-height: 35px !important;
+  }
+  .animation{
+   
+    line-height: 100px !important;
+  }
+ 
+  .organize__lil {
+   
+    margin-top: 7% !important;
+    text-align: center;
+}
+.tukoidsa{
+  height: 147px !important;
+  padding: 7px !important;
+}
+.icon {
+  display: block !important;
+  
+  left: 74px !important;
+}
+.card-more-inf {
+  margin-top: 5%;
+  margin-bottom: 5% !important;
+}
+.top__cards {
+  display: flex;
+  column-gap: 57px;
+  row-gap: 0px;
+  flex-direction: column;
+}
+
+.card-more-inf {
+  margin-bottom: 5% !important;
+  
+}
+
+.tours__card-thumb{
+  width: 15%;
+  
+}
+
+
+.way-title {
+ 
+  padding: 50px 0px 50px 0px !important;
+}
+
+.namely_buryatia_tour{
+  display: flex !important; 
+  flex-direction: column !important; 
+}
+.bashkara_topic
+{
+  font-size: 35px !important; 
+}
+/*  footer  start 340*/
+.gallery__tour_hidden1{
+  column-gap: 15px !important;
+}
+.footer__list{
+  padding-left: 40% !important;
+}
+.footer__list {
+  display: flex !important;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+}
+.footer__item_hidden{
+  display: none;
+  }
+  .footer__list_hidden{
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer__item{
+    margin-right: 4%!important;
+  }
+
+  .footer__item01{ 
+
+  margin-bottom: 5%;
+
+  }
+  .footer__item1{
+    margin-left: 0px !important;
+  }
+  .footer__item_logo{
+    margin-right: 0%!important;
+  }
+  .footer__list_hidden{
+    margin-left: 12% !important;
+  }
+
+  .footer__link {
+    font-size: 20px !important;
+  }
+  .footer-it{
+    font-size: 15px !important;
+  }
+  .footer-text{
+    margin-left: 5% !important;
+  }
+/*  footer  end 340*/
+}
+
