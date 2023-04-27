@@ -1,0 +1,77 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+ul {
+	list-style-type: none;
+}
+
+img {
+	max-width: 100%;
+	object-fit: cover;
+}
+
+
+.card {
+	min-height: 100%;
+	background: url(../img/fon1.png) no-repeat center;
+    background-size: cover;
+    padding-top: -100px;
+    padding-bottom: 0px;
+
+}
+.way-card {
+	min-height: 100%;
+	background: url(../img/Buryatia-fon1.png) center;
+    background-size: cover;
+    padding-top: -100px;
+    padding-bottom: 0px;
+
+}
+
+.slider-container {
+	max-width: 1200px;
+	padding: 0 15px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+	background-color: #fff;
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+	display: none;
+}
+
+.slider-top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	margin-bottom: 30px;
+	
+}
+
+.slider-buttons {
+	display: flex;
+	align-items: center;
+	
+}
